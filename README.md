@@ -1,4 +1,3 @@
-#Démo GIT
-voici un super dépot (repot)
+## P-POO_JMY
 
-## Procédure
+Voici le depot de mon projet Spicy Invaders
