@@ -1,0 +1,140 @@
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe.config
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.pdb
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.AssemblyReference.cache
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.exe
+C:\Users\Esteban\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe.config
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.AssemblyReference.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CoreCompileInputs.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\bin\Debug\NuGet.Frameworks.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Projet Visual Studio SpicyInvader\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CopyComplete
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.AssemblyReference.cache
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CoreCompileInputs.cache
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe.config
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\NuGet.Frameworks.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CopyComplete
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\MySql.Data.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Buffers.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Memory.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\ZstdSharp.dll
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.pdb
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\MySql.Data.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Buffers.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Memory.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pn23stc\Desktop\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe.config
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.pdb
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\MySql.Data.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\NuGet.Frameworks.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Buffers.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Memory.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\ZstdSharp.dll
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.pdb
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\MySql.Data.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Buffers.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Memory.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.AssemblyReference.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CoreCompileInputs.cache
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CopyComplete
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.exe
+C:\Users\pn23stc\OneDrive - Education Vaud\2. DEUXIEME ANNÉE (CID2A)\P-POO-JMY-SpicyInvaders\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.pdb
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.exe
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.pdb
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe.config
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.exe
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\esteban-SpicyInvaders.pdb
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\MySql.Data.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Buffers.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Memory.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\ZstdSharp.dll
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.pdb
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Google.Protobuf.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\MySql.Data.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Buffers.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Memory.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Esteban\Desktop\Fichier principal Spicy Invaders\esteban-SpicyInvaders\obj\Debug\esteban-SpicyInvaders.csproj.CopyComplete
