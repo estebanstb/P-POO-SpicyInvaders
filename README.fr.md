@@ -1,6 +1,5 @@
 # P-POO-SpicyInvaders ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/estebanstb/P-POO-SpicyInvaders/blob/master/README.md)
 ## Description 
 Projet fait dans le cadre de ma formation, ce projet ce tient sur 8 semaines avec 5 périodes de travail par semaine.
 
