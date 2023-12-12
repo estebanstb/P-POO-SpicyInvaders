@@ -4,7 +4,7 @@
 ## Description 
 I did this project as part of my formation. The project needed to be made in 8 weeks with 4 periods of work per week.
 
-1 period = 45 minutes, which makes 3 hours per week.
+1 period = 45 minutes, which makes it 3 hours per week.
 
 ## Images
 <img src="https://github.com/estebanstb/P-POO-SpicyInvaders/blob/main/screenshots/mainMenuSpicyInvaders.png"></img>
